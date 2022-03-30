@@ -4,6 +4,7 @@ description: This resource includes the solutions to the problems refered in pro
   set 3.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-32-separation-processes-spring-2005/1fa8e4e7b1d796517792a976a0ea3891_10_32_ps3solution.pdf
 file_type: application/pdf
+parent_uid: de7e62a4-f330-dd55-2525-e8f8c9e1f57a
 resourcetype: Document
 title: 10_32_ps3solution.pdf
 uid: 1fa8e4e7-b1d7-9651-7792-a976a0ea3891

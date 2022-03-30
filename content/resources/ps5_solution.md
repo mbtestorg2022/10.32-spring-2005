@@ -4,6 +4,7 @@ description: This resource includes solutions to the problems given in problem s
   5.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-32-separation-processes-spring-2005/bfe3737ce4ea264951b44467e066dacf_ps5_solution.pdf
 file_type: application/pdf
+parent_uid: de7e62a4-f330-dd55-2525-e8f8c9e1f57a
 resourcetype: Document
 title: ps5_solution.pdf
 uid: bfe3737c-e4ea-2649-51b4-4467e066dacf
